@@ -1,4 +1,4 @@
-# SucoTangSaborFramboesa
+# SA2 - Análise Visual e Comparativa de Buscas e Árvores
 
 Projeto em C para comparação entre métodos de busca e árvore binária de busca. O sistema gera vetores de inteiros ordenados e embaralhados, executa busca sequencial, busca binária e busca em árvore, mede tempo com `clock()` e grava os resultados em `resultados/resultados.csv`.
 
